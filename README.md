@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat-With-Your-Favorite-PDF
 
 This is a public repository for a web application that allows you to chat with a PDF on Streamlit, with ~150 lines of Python code.
@@ -187,3 +188,6 @@ Follow me on:
 - [X](https://x.com/byiliakarelin)
 
 Also, if you love ML, like this project and explanation of the code, consider subscribing to my [Newsletter](prosperindata.substack.com/subscribe).
+=======
+# Streamlit-LLM-PdfChat
+>>>>>>> 818d6ac5b85f7c5416c3c10f3cc37f1e6087f30a
