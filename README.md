@@ -55,6 +55,18 @@ This enables dynamic and coherent conversations based on the document’s conten
 
 ---
 
+## 🛠️ Tech Stack
+
+| Technology               | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| 🧠 Generative AI         | Powers natural language generation and understanding.                      |
+| 🤗 Hugging Face API      | Accesses pretrained LLMs via secure API token.                             |
+| 📚 LLM (Large Language Model) | Processes PDF content to generate context-aware responses.             |
+| 🔍 FAISS                 | Efficient similarity search using vector embeddings from PDF content.       |
+| 🌐 Streamlit             | Builds an interactive web-based UI for chatting with your PDF.             |
+| 🔐 Environment Variables | Stores secrets like Hugging Face API token securely in a `.env` file.       |
+
+
 ## 🖥️ User Interface
 
 The app uses Streamlit for its front-end:
@@ -97,5 +109,17 @@ To run the project locally:
 - The app is adaptable to many use cases including academic research, meeting transcripts, books, and more.
 
 ---
+## 👤 Author Profile
+
+### 🚀 **Mulinti Rohith Naidu**
+
+🤖 **LLM Engineer** | 📚 **PDF Chatbot Builder**
+📧 **Email**: [mulintirohan159@gmail.com](mailto:mulintirohan159@gmail.com)  
+🔗 **LinkedIn**: [Visit Profile](https://linkedin.com/in/rohith-naidu-16a2004mar)
+
+---
+
+> Passionate about building decentralized solutions and innovative tech projects.
+
 
 **Happy PDF Chatting!** 🤖📚
