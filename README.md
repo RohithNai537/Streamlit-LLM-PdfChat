@@ -26,7 +26,6 @@ In the example below, the user asked who the guest was in episode 791 of the Sup
 
 [Click here or watch below to see the app in action!](https://github.com/user-attachments/assets/7de0fdf5-9479-4f19-8558-1e084c421ea6)
 
-https://github.com/user-attachments/assets/7de0fdf5-9479-4f19-8558-1e084c421ea6
 
 ---
 
