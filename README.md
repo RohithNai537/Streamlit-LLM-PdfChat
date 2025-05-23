@@ -114,6 +114,7 @@ To run the project locally:
 ### 🚀 **Mulinti Rohith Naidu**
 
 🤖 **LLM Engineer** | 📚 **PDF Chatbot Builder**
+
 📧 **Email**: [mulintirohan159@gmail.com](mailto:mulintirohan159@gmail.com)  
 🔗 **LinkedIn**: [Visit Profile](https://linkedin.com/in/rohith-naidu-16a2004mar)
 
